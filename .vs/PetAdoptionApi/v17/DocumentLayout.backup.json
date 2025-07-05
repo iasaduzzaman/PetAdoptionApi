@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|e:\\my learning\\code\\dot net framework\\petadoptionapi\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\bll\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F9E6CB-D618-4512-ADAA-2C1B83E27945}|PetAdoptionApi\\PetAdoptionApi.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\petadoptionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F9E6CB-D618-4512-ADAA-2C1B83E27945}|PetAdoptionApi\\PetAdoptionApi.csproj|solutionrelative:petadoptionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F9E6CB-D618-4512-ADAA-2C1B83E27945}|PetAdoptionApi\\PetAdoptionApi.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\petadoptionapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F9E6CB-D618-4512-ADAA-2C1B83E27945}|PetAdoptionApi\\PetAdoptionApi.csproj|solutionrelative:petadoptionapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F9E6CB-D618-4512-ADAA-2C1B83E27945}|PetAdoptionApi\\PetAdoptionApi.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\petadoptionapi\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F9E6CB-D618-4512-ADAA-2C1B83E27945}|PetAdoptionApi\\PetAdoptionApi.csproj|solutionrelative:petadoptionapi\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\migrations\\202507021527095_tokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202507021527095_tokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\models\\adoptioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\adoptioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\bll\\dtos\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\bll\\services\\petservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702C1816-D142-4A78-BC33-5A99AE53C2E4}|BLL\\BLL.csproj|solutionrelative:bll\\services\\petservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\repos\\petrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\petrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\migrations\\202507021334187_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202507021334187_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\models\\applicationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\applicationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\dal\\models\\adoptionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B13106-07F8-440F-BF0F-5DED03101BAC}|DAL\\DAL.csproj|solutionrelative:dal\\models\\adoptionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\PetAdoptionApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PetAdoptionApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\PetAdoptionApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PetAdoptionApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:08:04.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\PetAdoptionApi\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "PetAdoptionApi\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\PetAdoptionApi\\Models\\LoginModel.cs",
+              "RelativeToolTip": "PetAdoptionApi\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:03:27.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:51:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:29:12.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Token.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\Token.cs",
+              "RelativeToolTip": "DAL\\Models\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:21:13.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthServices.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\Services\\AuthServices.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:58:32.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:51:12.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Interface\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IAuth.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Interface\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interface\\IAuth.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAxwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:49:20.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202507021527095_Tokendb.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Migrations\\202507021527095_Tokendb.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202507021527095_Tokendb.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Migrations\\202507021527095_Tokendb.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202507021527095_Tokendb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:27:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\PetAdoptionApi\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "PetAdoptionApi\\Controllers\\PetController.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\PetAdoptionApi\\Controllers\\PetController.cs",
+              "RelativeToolTip": "PetAdoptionApi\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:29:15.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:57:27.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:21:39.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PetDTO.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\DTOs\\PetDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PetDTO.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\DTOs\\PetDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PetDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:22:44.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:11:36.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdoptionContext.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\AdoptionContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AdoptionContext.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\AdoptionContext.cs",
+              "RelativeToolTip": "DAL\\Models\\AdoptionContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:01:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:18:58.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PetRepo.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\PetRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PetRepo.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Repos\\PetRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PetRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:15:13.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PetServices.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\Services\\PetServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PetServices.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\BLL\\Services\\PetServices.cs",
+              "RelativeToolTip": "BLL\\Services\\PetServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:24:20.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Interface\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:46:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:49:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Pet.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\Pet.cs",
+              "RelativeToolTip": "DAL\\Models\\Pet.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA0wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:54:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202507021334187_init.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Migrations\\202507021334187_init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202507021334187_init.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Migrations\\202507021334187_init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202507021334187_init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:34:34.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationHistory.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\ApplicationHistory.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ApplicationHistory.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\ApplicationHistory.cs",
+              "RelativeToolTip": "DAL\\Models\\ApplicationHistory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:27:53.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdoptionApplication.cs",
+              "DocumentMoniker": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\AdoptionApplication.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AdoptionApplication.cs",
+              "ToolTip": "E:\\My learning\\code\\dot net framework\\PetAdoptionApi\\DAL\\Models\\AdoptionApplication.cs",
+              "RelativeToolTip": "DAL\\Models\\AdoptionApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:50:59.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
