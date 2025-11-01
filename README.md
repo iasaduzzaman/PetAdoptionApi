@@ -9,7 +9,7 @@
 
 ---
 
-# 📌 Table of Contents
+## 📌 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -18,7 +18,7 @@
 - [API Endpoints](#api-endpoints)
 ---
 
-# 📘 Overview
+## 📘 Overview
 **Pet Adoption API** is a **Web API backend system** designed to manage pet adoption workflows.  
 It helps organizations or pet shelters manage:
 
@@ -33,7 +33,7 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 
 ---
 
-# ✅ Features
+## ✅ Features
 - 🐶 **Pet Management (CRUD)**
 - 📝 **Adoption Application System**
 - 🔐 **JWT Authentication & Authorization**
@@ -46,7 +46,7 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 | Category | Technology |
 |---------|------------|
 | Backend | ASP.NET Web API |
@@ -59,7 +59,7 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 
 ---
 
-# Project Structure
+## Project Structure
 ```
 PetAdoptionApi.sln
 ├── PetAdoptionApi/ (Application Layer)
@@ -87,7 +87,7 @@ PetAdoptionApi.sln
 │       └── Adoption/
 └── README.md
 ```
-# API Endpoints
+## API Endpoints
 🐾 Pet Endpoints
 | Method | Endpoint         | Description   |
 | ------ | ---------------- | ------------- |
