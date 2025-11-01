@@ -87,4 +87,20 @@ PetAdoptionApi.sln
 │       └── Adoption/
 └── README.md
 ```
+# API Endpoints
+🐾 Pet Endpoints
+| Method | Endpoint         | Description   |
+| ------ | ---------------- | ------------- |
+| GET    | `/api/pets`      | Get all pets  |
+| GET    | `/api/pets/{id}` | Get pet by ID |
+| POST   | `/api/pets`      | Add new pet   |
+| PUT    | `/api/pets/{id}` | Update pet    |
+| DELETE | `/api/pets/{id}` | Delete pet    |
+
+👤 Authentication Endpoints
+| Method | Endpoint             | Description                  |
+| ------ | -------------------- | ---------------------------- |
+| POST   | `/api/auth/register` | Register new user            |
+| POST   | `/api/auth/login`    | Login user                   |
+| GET    | `/api/auth/profile`  | Get logged-in user's profile |
 
