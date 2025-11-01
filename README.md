@@ -18,7 +18,7 @@
 - [API Endpoints](#api-endpoints)
 ---
 
-## 📘 Overview
+## 📘 Overview{#overview}
 **Pet Adoption API** is a **Web API backend system** designed to manage pet adoption workflows.  
 It helps organizations or pet shelters manage:
 
