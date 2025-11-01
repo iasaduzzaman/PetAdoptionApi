@@ -60,6 +60,7 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 ---
 
 # Project Structure
+```
 PetAdoptionApi.sln
 ├── PetAdoptionApi/ (Application Layer)
 │   ├── Controllers/
@@ -74,7 +75,7 @@ PetAdoptionApi.sln
 │   └── Mappers/ (AutoMapper profiles for DTO to Entity mapping)
 ├── DAL/ (Data Access Layer)
 │   ├── Data/
-│   │   ├── ApplicationDbContext.cs (EF Core DbContext)
+│   │   ├── ApplicationDbContext.cs
 │   │   └── Migrations/
 │   ├── Models/ (EF Core Entities/Domain Models)
 │   ├── Repositories/ (Implements data persistence operations)
@@ -85,34 +86,5 @@ PetAdoptionApi.sln
 │       ├── Auth/
 │       └── Adoption/
 └── README.md
-
-✅ Install Dependencies
-dotnet restore
-
-✅ Apply Database Migrations
-dotnet ef database update
-
-✅ Run Application
-dotnet run
-
-
-API will start at:
-
-https://localhost:5001
-http://localhost:5000
-
-🔗 API Endpoints
-🐾 Pet Endpoints
-Method	Endpoint	Description
-GET	/api/pets	Get all pets
-GET	/api/pets/{id}	Get pet by ID
-POST	/api/pets	Add new pet
-PUT	/api/pets/{id}	Update pet
-DELETE	/api/pets/{id}	Delete pet
-📝 Adoption Application Endpoints
-Method	Endpoint	Description
-POST	/api/applications	Submit adoption request
-GET	/api/applications	View all applications
-PUT	/api/applications/{id}/approve	Approve application
-PUT	/api/applications/{id}/reject	Reject application
+```
 
