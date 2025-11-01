@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://via.placeholder.com/300x150?text=Your+Logo+Here" alt="Project Logo" />
-</p>
-
 <h1 align="center">HR-MANAGEMENT</h1>
 <p align="center"><i>Human Resources Management Web API System</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green">
   <img src="https://img.shields.io/badge/last%20commit-November-blue">
   <img src="https://img.shields.io/badge/language-C%23-purple">
-  <img src="https://img.shields.io/badge/framework-.NET%208-red">
+  <img src="https://img.shields.io/badge/framework-.NET-red">
 </p>
 
 ---
@@ -59,7 +54,7 @@ The system is designed for secure, scalable API communication and supports integ
 # 🛠 Tech Stack
 | Category | Technology |
 |---------|------------|
-| Backend | ASP.NET Core Web API (.NET 8) |
+| Backend | ASP.NET Web API |
 | Database | SQL Server / EF Core |
 | Authentication | JWT |
 | Tools | Visual Studio, Postman |
