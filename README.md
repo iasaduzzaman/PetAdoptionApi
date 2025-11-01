@@ -55,7 +55,6 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 | Validation | FluentValidation |
 | Authentication | JWT Authentication |
 | Tools | Visual Studio, Postman |
-| UI Utilities (Testing) | JavaScript, Bootstrap |
 | Version Control | Git, GitHub |
 
 ---
@@ -86,4 +85,34 @@ PetAdoptionApi.sln
 │       ├── Auth/
 │       └── Adoption/
 └── README.md
+
+✅ Install Dependencies
+dotnet restore
+
+✅ Apply Database Migrations
+dotnet ef database update
+
+✅ Run Application
+dotnet run
+
+
+API will start at:
+
+https://localhost:5001
+http://localhost:5000
+
+🔗 API Endpoints
+🐾 Pet Endpoints
+Method	Endpoint	Description
+GET	/api/pets	Get all pets
+GET	/api/pets/{id}	Get pet by ID
+POST	/api/pets	Add new pet
+PUT	/api/pets/{id}	Update pet
+DELETE	/api/pets/{id}	Delete pet
+📝 Adoption Application Endpoints
+Method	Endpoint	Description
+POST	/api/applications	Submit adoption request
+GET	/api/applications	View all applications
+PUT	/api/applications/{id}/approve	Approve application
+PUT	/api/applications/{id}/reject	Reject application
 
