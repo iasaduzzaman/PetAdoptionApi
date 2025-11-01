@@ -16,11 +16,6 @@
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [API Endpoints](#api-endpoints)
-- [Security](#security)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ---
 
 # 📘 Overview
@@ -65,5 +60,30 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 
 ---
 
-# 📂 Project Structure
+# Project Structure
+PetAdoptionApi.sln
+├── PetAdoptionApi/ (Application Layer)
+│   ├── Controllers/
+│   ├── Config/ 
+│   ├── Program.cs (Application entry point)
+│   └── appsettings.json
+├── BLL/ (Business Logic Layer)
+│   ├── Services/ (Implements Core business logic, utilizes Repositories)
+│   │   ├── Interfaces/ (e.g., IPetService, IAuthService)
+│   │   └── Implementations/ (e.g., PetService, AuthService)
+│   ├── Validators/ (FluentValidation rules for DTOs)
+│   └── Mappers/ (AutoMapper profiles for DTO to Entity mapping)
+├── DAL/ (Data Access Layer)
+│   ├── Data/
+│   │   ├── ApplicationDbContext.cs (EF Core DbContext)
+│   │   └── Migrations/
+│   ├── Models/ (EF Core Entities/Domain Models)
+│   ├── Repositories/ (Implements data persistence operations)
+│   │   ├── Interfaces/ (e.g., IPetRepository)
+│   │   └── Implementations/ (e.g., PetRepository)
+│   └── DTOs/ (Data Transfer Objects for request/response bodies)
+│       ├── Pet/
+│       ├── Auth/
+│       └── Adoption/
+└── README.md
 
