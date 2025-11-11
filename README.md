@@ -36,7 +36,7 @@ The system is built using **clean architecture**, **SOLID principles**, and **EF
 ## ✅ Features
 - 🐶 **Pet Management (CRUD)**
 - 📝 **Adoption Application System**
-- 🔐 **JWT Authentication & Authorization**
+- 🔐 **Authentication & Authorization**
 - 🧩 **Entity Framework Core (Code-First)**
 - ✅ **DTO Mapping for clean structured data**
 - 🧠 **Fluent Validation for robust input validation**
